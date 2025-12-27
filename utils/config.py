@@ -1,0 +1,10 @@
+SEQ_LENGTH = 40
+EMBEDDING_DIM = 128
+LSTM_UNITS = 256
+BATCH_SIZE = 128
+EPOCHS = 20
+DATA_URL = "https://www.gutenberg.org/cache/epub/100/pg100.txt"
+DATA_PATH = "data/shakespeare.txt"
+MODEL_PATH = "model/lstm_text_gen.h5"
+user.name='Ankit Yadav'
+user.email='ankit05799@gmail.com'
